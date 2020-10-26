@@ -8,3 +8,4 @@ git reset --hard origin/master
 git pull
 
 echo force pull complete!
+pause
