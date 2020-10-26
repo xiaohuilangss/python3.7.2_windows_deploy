@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba79a79-1c95-4175-893d-5dd37145107b" name="Default Changelist" comment="" />
+    <list default="true" id="1ba79a79-1c95-4175-893d-5dd37145107b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/update.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,18 +54,26 @@
       <option name="project" value="LOCAL" />
       <updated>1603681709679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加更新脚本">
+      <created>1603682178318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603682178318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+    <MESSAGE value="增加更新脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加更新脚本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="144" key="CommitChangelistDialog2" timestamp="1603681706778">
+    <state x="522" y="144" key="CommitChangelistDialog2" timestamp="1603682175759">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="522" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603681706778" />
+    <state x="522" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603682175759" />
     <state x="589" y="312" key="FileChooserDialogImpl" timestamp="1603680897166">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
