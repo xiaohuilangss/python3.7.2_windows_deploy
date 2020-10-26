@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba79a79-1c95-4175-893d-5dd37145107b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python3.7.2_windows_deploy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git64_2.20.1.1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TA_Lib-0.4.18-cp37-cp37m-win_amd64.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-setup.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-3.7.2-amd64.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/安装说明.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1ba79a79-1c95-4175-893d-5dd37145107b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
@@ -57,9 +44,25 @@
       <option name="presentableId" value="Default" />
       <updated>1603674149467</updated>
     </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1603681709679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603681709679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="522" y="144" key="CommitChangelistDialog2" timestamp="1603681706778">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="522" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603681706778" />
     <state x="589" y="312" key="FileChooserDialogImpl" timestamp="1603680897166">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -68,5 +71,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="261" y="189" width="1096" height="738" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603681134602" />
+    <state x="476" y="284" key="Vcs.Push.Dialog.v2" timestamp="1603681718347">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="476" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603681718347" />
   </component>
 </project>
