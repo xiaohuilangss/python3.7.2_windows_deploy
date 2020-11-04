@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba79a79-1c95-4175-893d-5dd37145107b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/update.bat" beforeDir="false" afterPath="$PROJECT_DIR$/update.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VC_redist.x64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/安装说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/安装说明.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MYAI\python3.7.2_windows_deploy" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603682178318</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加更新脚本">
+      <created>1603682618133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603682618133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -69,10 +86,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加更新脚本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="144" key="CommitChangelistDialog2" timestamp="1603682175759">
+    <state x="522" y="144" key="CommitChangelistDialog2" timestamp="1603682615588">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="522" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603682175759" />
+    <state x="522" y="144" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603682615588" />
     <state x="589" y="312" key="FileChooserDialogImpl" timestamp="1603680897166">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -81,9 +98,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="261" y="189" width="1096" height="738" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603681134602" />
-    <state x="476" y="284" key="Vcs.Push.Dialog.v2" timestamp="1603681718347">
+    <state x="476" y="284" key="Vcs.Push.Dialog.v2" timestamp="1603682620408">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="476" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603681718347" />
+    <state x="476" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603682620408" />
   </component>
 </project>
